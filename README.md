@@ -2,11 +2,11 @@
 
 Jika Anda lupa password Mikhmon dan ingin merubahnya, Anda bisa mengikuti dua cara yang berbeda<!-- truncate -->, yaitu:
 
-![mikhmon-v3](./img/mikhmon-v3.png)
+![mikhmon-v3](./img/mikhmon-v3-b8b3344908b87e8a8e7e99c04e7cc035.png)
 
 - mikhmon v3
 
-![mikhmon-v4](./img/mikhmon-v4.png)
+![mikhmon-v4](./img/mikhmon-v4-e753ea8d8971817a34ff087bcfef7859.png)
 
 - mikhmon v4
 
